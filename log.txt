@@ -1,0 +1,2 @@
+This is a log message.
+Error: [Errno 2] No such file or directory: 'nonexistent.txt'
